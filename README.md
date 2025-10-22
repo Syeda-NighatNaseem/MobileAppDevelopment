@@ -12,12 +12,12 @@ The app includes essential shopping features such as product listing, detailed p
 StyleGo aims to provide a smooth, responsive, and cross-platform shopping experience for Android and iOS users._
 
 
-## ✨ **Features**
+##  **Features**
 - 🧭 Smooth navigation with React Navigation  
-- 🎨 Centralized global styles for consistent UI  
-- ⚡ Fast performance & optimized components  
-- 📱 Cross-platform (Android + iOS) support  
-- 💾 Easy to extend and customize  
+- Centralized global styles for consistent UI  
+- Fast performance & optimized components  
+- Cross-platform (Android + iOS) support  
+- Easy to extend and customize  
 
 ---
 
